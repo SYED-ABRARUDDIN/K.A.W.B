@@ -1,0 +1,7 @@
+image: intwarehouse.pgm
+resolution: 0.010000
+origin: [-7.720226, -36.143545, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
