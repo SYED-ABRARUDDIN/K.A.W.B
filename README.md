@@ -11,7 +11,7 @@ Welcome to the GitHub repository for an autonomous robot developed as my undergr
 
 ## Image
 <p>
-  <img width="480" height="720" src="https://github.com/SYED-ABRARUDDIN/K.A.W.B/assets/66572282/4263a1ff-129e-42e8-8e64-092502ce411e">
+  <img width="480" height="620" src="https://github.com/SYED-ABRARUDDIN/K.A.W.B/assets/66572282/4263a1ff-129e-42e8-8e64-092502ce411e">
   </p>
 
 ## Video
