@@ -10,10 +10,8 @@ Welcome to the GitHub repository for an autonomous robot developed as my undergr
 - **Autonomous navigation:** The goal of this project is to develop an autonomous navigation system for the robot. Using the sensor data from the RP Lidar and the capabilities of ROS, the robot will be able to perceive its environment, plan its path, and navigate autonomously, avoiding obstacles and reaching target destinations.
 
 ## Image
-![martin](https://github.com/SYED-ABRARUDDIN/K.A.W.B/assets/66572282/4263a1ff-129e-42e8-8e64-092502ce411e)
-
 <p>
-  <img width="468" height="216" src="https://github.com/SYED-ABRARUDDIN/K.A.W.B/assets/66572282/4263a1ff-129e-42e8-8e64-092502ce411e">
+  <img width="480" height="720" src="https://github.com/SYED-ABRARUDDIN/K.A.W.B/assets/66572282/4263a1ff-129e-42e8-8e64-092502ce411e">
   </p>
 
 ## Video
